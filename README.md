@@ -8,8 +8,11 @@ ipq600 ax1800 编译正常
 
 
 Distributor ID: Ubuntu
+
 Description:    Ubuntu 18.04.6 LTS
+
 Release:        18.04
+
 Codename:       bionic
 
 GOVERSION='go1.22.10'
