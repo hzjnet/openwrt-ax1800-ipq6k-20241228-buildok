@@ -19,14 +19,8 @@ GOVERSION='go1.22.10'
 
 gcc --version
 gcc (Ubuntu 11.4.0-2ubuntu1~18.04) 11.4.0
-Copyright (C) 2021 Free Software Foundation, Inc.
-This is free software; see the source for copying conditions.  There is NO
-warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 g++ (Ubuntu 11.4.0-2ubuntu1~18.04) 11.4.0
-Copyright (C) 2021 Free Software Foundation, Inc.
-This is free software; see the source for copying conditions.  There is NO
-warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 Generating index for package ./xz-utils_5.2.5-2_aarch64_cortex-a53.ipk
 
