@@ -42,23 +42,41 @@ Generating index for package ./zipcmp_1.8.0-4_aarch64_cortex-a53.ipk
 Generating index for package ./zipmerge_1.8.0-4_aarch64_cortex-a53.ipk
 Generating index for package ./ziptool_1.8.0-4_aarch64_cortex-a53.ipk
 Generating index for package ./zlib_1.2.11-3_aarch64_cortex-a53.ipk
+
 Generating index for package ./zstd_1.3.8-1_aarch64_cortex-a53.ipk
+
 Signing package index...
+
 make[2]: Leaving directory '/openwrt/openwrt-gl-ax1800-f937182905-202412-tools.ok'
+
 export MAKEFLAGS= ;make -w -r json_overview_image_info
+
 make[2]: Entering directory '/openwrt/openwrt-gl-ax1800-f937182905-202412-tools.ok'
+
 make[2]: Nothing to be done for 'json_overview_image_info'.
+
 make[2]: Leaving directory '/openwrt/openwrt-gl-ax1800-f937182905-202412-tools.ok'
+
 export MAKEFLAGS= ;make -w -r checksum
+
 make[2]: Entering directory '/openwrt/openwrt-gl-ax1800-f937182905-202412-tools.ok'
-make[2]: Leaving directory '/openwrt/openwrt-gl-ax1800-f937182905-202412-tools.ok'
+
+make[2]: Leaving directory '/openwrt/openwrt-gl-ax1800-f937182905-202412-tools.ok' 
+
 make[1]: Leaving directory '/openwrt/openwrt-gl-ax1800-f937182905-202412-tools.ok'
 
 @ub18ip18:/openwrt/openwrt-gl-ax1800-f937182905-202412-tools.ok$ find bin|grep ssr-plus
+
 bin/targets/ipq60xx/generic/packages/luci-app-ssr-plus_188-3_all.ipk
+
 bin/targets/ipq60xx/generic/packages/luci-i18n-ssr-plus-zh-cn_188-3_all.ipk
+
 @ub18ip18:/openwrt/openwrt-gl-ax1800-f937182905-202412-tools.ok$ find bin|grep passwall
+
 bin/targets/ipq60xx/generic/packages/luci-app-passwall_24.12.17-2_all.ipk
+
 bin/targets/ipq60xx/generic/packages/luci-i18n-passwall-zh-cn_24.12.17-2_all.ipk
+
 @ub18ip18:/openwrt/openwrt-gl-ax1800-f937182905-202412-tools.ok$ find bin|grep openclash
+
 bin/targets/ipq60xx/generic/packages/luci-app-openclash_0.46.050-beta_all.ipk
