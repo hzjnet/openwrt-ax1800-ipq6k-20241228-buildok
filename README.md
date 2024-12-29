@@ -28,19 +28,16 @@ Copyright (C) 2021 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-Generating index for package ./wget-ssl_1.21.2_aarch64_cortex-a53.ipk
-Generating index for package ./wifischedule_1-3_all.ipk
-Generating index for package ./wireguard-tools_1.0.20210914-1_aarch64_cortex-a53.ipk
-Generating index for package ./wireless-regdb_2021.08.28-1_all.ipk
-Generating index for package ./wol_0.7.1-3_aarch64_cortex-a53.ipk
-Generating index for package ./wpad-openssl_2021-02-20-59e9794c-8_aarch64_cortex-a53.ipk
-Generating index for package ./xray-core_24.11.30-1_aarch64_cortex-a53.ipk
-Generating index for package ./xray-plugin_1.8.24-1_aarch64_cortex-a53.ipk
 Generating index for package ./xz-utils_5.2.5-2_aarch64_cortex-a53.ipk
+
 Generating index for package ./zerotier_1.10.6-1_aarch64_cortex-a53.ipk
+
 Generating index for package ./zipcmp_1.8.0-4_aarch64_cortex-a53.ipk
+
 Generating index for package ./zipmerge_1.8.0-4_aarch64_cortex-a53.ipk
+
 Generating index for package ./ziptool_1.8.0-4_aarch64_cortex-a53.ipk
+
 Generating index for package ./zlib_1.2.11-3_aarch64_cortex-a53.ipk
 
 Generating index for package ./zstd_1.3.8-1_aarch64_cortex-a53.ipk
